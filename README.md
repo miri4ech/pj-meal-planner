@@ -1,5 +1,5 @@
 # Meal Planner
-This is a React/Reduc project
+This is a React/Redux project
 
 
 
